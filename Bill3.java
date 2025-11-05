@@ -9,6 +9,6 @@ public class Bill3 {
 		double finalPrice = (price / 3.0);
 		finalPrice = Math.ceil(finalPrice);
 		System.out.println("Dear " + name3 + ", " + name2 + ", and " + 
-						name1 + ": pay " + finalPrice + " each.");
+						name1 + ": pay " + finalPrice + " Shekels each.");
 	}
 }
